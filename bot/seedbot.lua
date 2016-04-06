@@ -226,13 +226,13 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {167268835,164100672,0,tonumber(our_id)},--Sudo users
+    sudo_users = {167268835,164100672,0, 199094779,122168696,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+
 
 
 
@@ -240,7 +240,7 @@ Special thanks to
 @Xx_minister_salib_xX
 
 Our channels
-@Xx_etehad_salib_xX
+@BHH_Team
 ]],
     help_text_realm = [[
 Realm Commands:
